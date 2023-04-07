@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/52804763/230605454-2963ae5a-2e0b-4047-9bfb-e6c753ef85c0.png)  
 3.将UID与已记录UID进行比对之后发出对应的提示音  
 # 如何使用
-下载成品tesseract安装之后把文件像下图一样放置即可(https://digi.bib.uni-mannheim.de/tesseract)
+下载成品tesseract安装之后把文件像下图一样放置即可(https://digi.bib.uni-mannheim.de/tesseract)  
 ![image](https://user-images.githubusercontent.com/52804763/230606207-42d036e1-310d-4ef0-bd80-02bea25c8245.png)  
   
   
