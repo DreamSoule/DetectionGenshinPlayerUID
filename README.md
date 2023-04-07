@@ -1,0 +1,2 @@
+# DetectionGenshinPlayerUID
+检测玩家UID是否在黑名单列表
